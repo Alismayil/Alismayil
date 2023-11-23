@@ -11,6 +11,6 @@
 
 
 
-<div style='width:100px ; height:100px'>
-<img src='https://cdn-icons-png.flaticon.com/512/732/732212.png' style='max-width:100px'>
+<div style="background-color: blue ; width: 200px">
+<img src='https://cdn-icons-png.flaticon.com/512/732/732212.png' style='max-width:100%'>
 </div>
