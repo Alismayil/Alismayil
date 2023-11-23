@@ -11,6 +11,6 @@
 
 
 
-<div >
+<div style='width:100%' ; height:100vh>
 <img src='https://cdn-icons-png.flaticon.com/512/732/732212.png' style='max-width:100px'>
 </div>
