@@ -8,6 +8,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div>
-<img src='https://cdn-icons-png.flaticon.com/512/732/732212.png'>
+
+
+
+<div >
+<img src='https://cdn-icons-png.flaticon.com/512/732/732212.png' style='max-width:100px'>
 </div>
