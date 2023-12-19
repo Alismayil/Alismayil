@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-![VisualStudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white) </br>
+![VisualStudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white) <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
@@ -14,20 +14,20 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![ExpressJs](https://img.shields.io/badge/express.js-white.svg?style=for-the-badge&logo=express.js&logoColor=black)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![Npm](https://img.shields.io/badge/npm-F80000?style=for-the-badge&logo=npm&logoColor=white) 
+![Npm](https://img.shields.io/badge/npm-F80000?style=for-the-badge&logo=npm&logoColor=white) <br>
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br>
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 ![ReactIcon](https://img.shields.io/badge/reacticon-hotpink.svg?style=for-the-badge&logo=reacticon&logoColor=white) 
 ![Swiper](https://img.shields.io/badge/swiper-%23007ACC.svg?style=for-the-badge&logo=swiper&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>
 ![Regex](https://img.shields.io/badge/regex-%231572B6.svg?style=for-the-badge&logo&logo=regex&logoColor=white) 
-![Jwt](https://img.shields.io/badge/jwt-%23000B25.svg?style=for-the-badge&logo=jwt&logoColor=00A4DC) 
+![Jwt](https://img.shields.io/badge/jwt-%23000B25.svg?style=for-the-badge&logo=jwt&logoColor=00A4DC) <br>
 ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Gitlab](https://img.shields.io/badge/Gitlab-FF6C37?style=for-the-badge&logo=Gitlab&logoColor=white)
 
