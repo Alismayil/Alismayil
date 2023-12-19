@@ -21,7 +21,7 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 ![ReactIcon](https://img.shields.io/badge/reacticon-hotpink.svg?style=for-the-badge&logo=reacticon&logoColor=white) 
 ![Swiper](https://img.shields.io/badge/swiper-%23007ACC.svg?style=for-the-badge&logo=swiper&logoColor=white) 
-![Bootstrap](https://img.shields.io/bootstrap/Bootstrap-%23593d88.svg?style=for-the-badge&logo&logo=bootstrap&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Regex](https://img.shields.io/badge/regex-%231572B6.svg?style=for-the-badge&logo&logo=regex&logoColor=white) 
