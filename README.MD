@@ -28,6 +28,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>
 ![Regex](https://img.shields.io/badge/regex-%231572B6.svg?style=for-the-badge&logo&logo=regex&logoColor=white) 
 ![Jwt](https://img.shields.io/badge/jwt-%23000B25.svg?style=for-the-badge&logo=jwt&logoColor=00A4DC) <br>
+![Git](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Gitlab](https://img.shields.io/badge/Gitlab-FF6C37?style=for-the-badge&logo=Gitlab&logoColor=white)
 
