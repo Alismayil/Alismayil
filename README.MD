@@ -20,7 +20,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 ![ReactIcon](https://img.shields.io/badge/reacticon-%23593d88.svg?style=for-the-badge&logo&logo=ReactIcon&logoColor=white)  
-![Swiper](https://img.shields.io/badge/Swiper-%23007ACC.svg?style=for-the-badge&logo=Swiper&logoColor=white) 
+![Swiper](https://img.shields.io/badge/swiper-%23007ACC.svg?style=for-the-badge&logo=swiper&logoColor=white) 
 ![Regex](https://img.shields.io/badge/regex-%231572B6.svg?style=for-the-badge&logo&logo=regex&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
