@@ -3,7 +3,9 @@
 
 
 # 💻 Tech Stack:
-<a href="https://www.google.com/search?sca_esv=592299856&rlz=1C1IXYC_ruAZ1078AZ1078&q=Visual+Studio+Code&si=ALGXSlbwSanjwcX1yAa9Qp4ln8WFjyrFeR1M5B_cfhq0zIBcZjQ0k-mfxS3Ln5SrtrZZb8nkOFpos503xjD2djNlTXNVNcnWPBoP-As71g6UtyapssSihj-sYdOBobecEpWgXEPg-2pYWljwSpCrC5ChWaH0yIbO9OCCJ1EzMqxHzVuYcQlB1qKeKhM4y88s6OHz5LVjFYue&sa=X&ved=2ahUKEwjvz63yq5yDAxVhQ_EDHeNmCloQ3LoBegQIChAB&biw=1536&bih=730&dpr=1.25">![VisualStudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white) </a>
+<a href="https://code.visualstudio.com/">
+![VisualStudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white) 
+</a>
 <br>
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
