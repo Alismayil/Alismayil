@@ -27,12 +27,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>
-![Regex](https://img.shields.io/badge/regex-%231572B6.svg?style=for-the-badge&logo&logo=regex&logoColor=white) 
-![JWT](https://img.shields.io/badge/jwt-%23000B25.svg?style=for-the-badge&logo=JSON%20web%20tokens)<br>
 ![Git](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Gitlab](https://img.shields.io/badge/Gitlab-FF6C37?style=for-the-badge&logo=Gitlab&logoColor=white)
-![Gitbash](https://img.shields.io/badge/gitbash-1C1E24?style=for-the-badge&logo=gitbash&logoColor=#D04A37)
+![Gitbash](https://img.shields.io/badge/gitbash-1C1E24?style=for-the-badge&logo=gitbash&logoColor=#D04A37)<br>
+![Regex](https://img.shields.io/badge/regex-%231572B6.svg?style=for-the-badge&logo&logo=regex&logoColor=white) 
+![JWT](https://img.shields.io/badge/jwt-%23000B25.svg?style=for-the-badge&logo=JSON%20web%20tokens)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alismayil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
