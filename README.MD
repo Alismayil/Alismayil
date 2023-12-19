@@ -20,9 +20,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br>
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 ![ReactIcon](https://img.shields.io/badge/reacticon-hotpink.svg?style=for-the-badge&logo=reacticon&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Swiper](https://img.shields.io/badge/swiper-%23007ACC.svg?style=for-the-badge&logo=swiper&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Gitlab](https://img.shields.io/badge/Gitlab-FF6C37?style=for-the-badge&logo=Gitlab&logoColor=white)
-
+![Gitbash](https://img.shields.io/badge/gitbash-1C1E24?style=for-the-badge&logo=gitbash&logoColor=#D04A37)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alismayil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
