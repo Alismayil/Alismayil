@@ -8,45 +8,44 @@
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+<a href="https://sass-lang.com/">![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) </a>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+<a href="https://www.typescriptlang.org/">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a> 
+<a href="https://react.dev/">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) </a> 
+<a href="https://vitejs.dev/">![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) </a> 
 <br>
 <br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![Npm](https://img.shields.io/badge/npm-F80000?style=for-the-badge&logo=npm&logoColor=white) 
+<a href="https://nodejs.org/en">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) </a> 
+<a href="https://expressjs.com/">![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)</a> 
+<a href="https://nodemon.io/">![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) </a> 
+<a href="https://www.npmjs.com/">![Npm](https://img.shields.io/badge/npm-F80000?style=for-the-badge&logo=npm&logoColor=white) </a> 
 <br>
 <br>
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+<a href="https://redux-toolkit.js.org/">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) </a> 
+<a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) </a> 
 <br>
 <br>
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+<a href="https://www.postman.com/">![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</a> 
+<a href="https://vercel.com/">![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) </a> 
+<a href="https://www.netlify.com/">![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) </a> 
 <br>
 <br>
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/antDesign-%23323330.svg?style=for-the-badge&logo=ant-design&logoColor=%BBDEAD) 
-![ReactIcon](https://img.shields.io/badge/reacticon-hotpink.svg?style=for-the-badge&logo=reacticon&logoColor=white) 
-![Swiper](https://img.shields.io/badge/swiper-%23007ACC.svg?style=for-the-badge&logo=swiper&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+<a href="https://mui.com/">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)</a> 
+<a href="https://ant.design/">![Ant-Design](https://img.shields.io/badge/antDesign-%23323330.svg?style=for-the-badge&logo=ant-design&logoColor=%BBDEAD) </a> 
+<a href="https://react-icons.github.io/react-icons/">![ReactIcon](https://img.shields.io/badge/reacticon-hotpink.svg?style=for-the-badge&logo=reacticon&logoColor=white) </a> 
+<a href="https://swiperjs.com/">![Swiper](https://img.shields.io/badge/swiper-%23007ACC.svg?style=for-the-badge&logo=swiper&logoColor=white) </a> 
+<a href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) </a> 
+<a href="https://www.figma.com/">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) </a> 
+<a href="https://www.canva.com/">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) </a> 
 <br>
 <br>
-![Git](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Gitlab](https://img.shields.io/badge/Gitlab-FF6C37?style=for-the-badge&logo=Gitlab&logoColor=white)
-![Gitbash](https://img.shields.io/badge/gitbash-1C1E24?style=for-the-badge&logo=gitbash&logoColor=#D04A37)
+<a href="https://git-scm.com/">![Git](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white) </a> 
+<a href="https://github.com/">![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) </a> 
+<a href="https://about.gitlab.com/">![Gitlab](https://img.shields.io/badge/Gitlab-FF6C37?style=for-the-badge&logo=Gitlab&logoColor=white)</a> 
 <br>
 <br>
-![Regex](https://img.shields.io/badge/regex-%231572B6.svg?style=for-the-badge&logo&logo=regex&logoColor=white) 
-![JWT](https://img.shields.io/badge/jwt-%23000B25.svg?style=for-the-badge&logo=JSON%20web%20tokens)
+<a href="https://regex101.com/">![Regex](https://img.shields.io/badge/regex-%231572B6.svg?style=for-the-badge&logo&logo=regex&logoColor=white) </a> 
+<a href="https://jwt.io/">![JWT](https://img.shields.io/badge/jwt-%23000B25.svg?style=for-the-badge&logo=JSON%20web%20tokens)</a> 
 
 
 # 📊 GitHub Stats:
