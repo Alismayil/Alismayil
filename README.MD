@@ -21,7 +21,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br>
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/ant-design-%23323330.svg?style=for-the-badge&logo=ant-design&logoColor=%BBDEAD) 
+![Ant-Design](https://img.shields.io/badge/antDesign-%23323330.svg?style=for-the-badge&logo=ant-design&logoColor=%BBDEAD) 
 ![ReactIcon](https://img.shields.io/badge/reacticon-hotpink.svg?style=for-the-badge&logo=reacticon&logoColor=white) 
 ![Swiper](https://img.shields.io/badge/swiper-%23007ACC.svg?style=for-the-badge&logo=swiper&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
