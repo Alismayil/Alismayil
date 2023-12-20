@@ -1,6 +1,6 @@
+<head>
 <style>
 img {border-radius:50px}
-
 </style>
 
 <h1 >Hi 👋, I'm Ali Ismayıl</h1>
@@ -62,7 +62,7 @@ img {border-radius:50px}
 [![](https://visitcount.itsvg.in/api?id=alismayil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</head>
 
 
 
