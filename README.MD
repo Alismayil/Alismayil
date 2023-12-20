@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Ismayıl</h1>
 <h3 align="center">A passionate front-end developer from Azerbaijan👨‍💻</h3>
-<img src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" width="100px" height="100px"></img>
+<img src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" width="200px" height="100px"></img>
 
 # 💻 Tech Stack:
 <a href="https://code.visualstudio.com/">![VisualStudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white) </a>
