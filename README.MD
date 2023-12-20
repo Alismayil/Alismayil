@@ -1,7 +1,7 @@
 <div display="flex" flexDirection="column">
 <h1 >Hi 👋, I'm Ali Ismayıl</h1>
 <h3 >A passionate front-end developer from Azerbaijan👨‍💻</h3>
-<img src="blob:https://web.whatsapp.com/ee94cad0-ca70-4c37-b9cd-be7ab9359208" width="470px" height="300px"></img>
+<img src="file:///C:/Users/Lenovo/Desktop/sekilme.jpg" width="470px" height="300px"></img>
 </div>
 
 # 💻 Tech Stack:
