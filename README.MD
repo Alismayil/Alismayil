@@ -1,7 +1,7 @@
 <div display="flex" flexDirection="column">
 <h1 >Hi 👋, I'm Ali Ismayıl</h1>
 <h3 >A passionate front-end developer from Azerbaijan👨‍💻</h3>
-<img src="file:///C:/Users/Lenovo/Desktop/sekilme.jpg" width="470px" height="300px"></img>
+<img src="https://www.bing.com/images/create/there-is-a-20-year-old2c-green-eyed2c-bearded-boy-wi/1-6582e8511c7c4341b11b99c1e6063f6f?id=Od5HzON40rWVlQH0WYhP1Q%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP" width="470px" height="300px"></img>
 </div>
 
 # 💻 Tech Stack:
