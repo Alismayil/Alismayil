@@ -1,8 +1,6 @@
  <h1>Hi 👋, I'm Ali Ismayıl</h1>
     <h3>A passionate front-end developer from Azerbaijan👨‍💻</h3>
-    <div style="border-radius: 50px; overflow: hidden;">
         <img src="./img/sekilme.jpg" width="470px" height="450px" style="width: 100%; height: 100%;" />
-    </div>
 
 # 💻 Tech Stack:
 <a href="https://code.visualstudio.com/">![VisualStudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white) </a>
