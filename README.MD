@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Ismayıl</h1>
 <h3 align="center">A passionate front-end developer from Azerbaijan👨‍💻</h3>
-
+<div backgroundColor="red">
 <img src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg"></img>
 # 💻 Tech Stack:
-<a href="https://code.visualstudio.com/" display="flex",justifyContent="center">![VisualStudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white) </a>
+<a href="https://code.visualstudio.com/">![VisualStudio](https://img.shields.io/badge/visualstudio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white) </a>
 <br>
 <br>
 <a href="https://code.visualstudio.com/">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) </a>
@@ -58,7 +58,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+</div>
 
 
 
