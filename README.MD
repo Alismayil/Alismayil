@@ -2,7 +2,7 @@
 <style>
 img {border-radius:50px}
 </style>
-
+</head>
 <h1 >Hi 👋, I'm Ali Ismayıl</h1>
 <h3 >A passionate front-end developer from Azerbaijan👨‍💻</h3>
 <img src="./img/sekilme.jpg" width="470px" height="450px" style="border-radius:50px"></img>
@@ -62,7 +62,7 @@ img {border-radius:50px}
 [![](https://visitcount.itsvg.in/api?id=alismayil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</head>
+
 
 
 
